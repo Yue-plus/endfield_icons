@@ -15,4 +15,4 @@
 
 - [Yue-plus/arknights_icons: Arknights Icons 开发中……](https://github.com/Yue-plus/arknights_icons)
 - [Yue-plus/endfield_icons](https://github.com/Yue-plus/endfield_icons)
-- [Arknights: Endfield - Over the Frontier | Into the Front](https://endfield.hypergryph.global/)
+- [Arknights: Endfield - Over the Frontier Into the Front](https://endfield.hypergryph.global/)
